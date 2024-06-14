@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_3"><path d="M0 825V0H1466.3V825Z"/></clipPath>
+<clipPath id="c1_3"><path d="M0 426.1V-2.8H1466.7V426.1Z"/></clipPath>
+<clipPath id="c2_3"><path d="M1276.9 667.9c-47.2 0 -85.4 -38.9 -85.4 -86.8c0 -48 38.2 -86.8 85.4 -86.8c47.1 0 85.4 38.8 85.4 86.8c0 47.9 -38.3 86.8 -85.4 86.8Z"/></clipPath>
+<clipPath id="c3_3"><path d="M956.3 667.9c-47.2 0 -85.4 -38.9 -85.4 -86.8c0 -48 38.2 -86.8 85.4 -86.8c47.1 0 85.4 38.8 85.4 86.8c0 47.9 -38.3 86.8 -85.4 86.8Z"/></clipPath>
+<clipPath id="c4_3"><path d="M623.5 667.9c-47.2 0 -85.4 -38.9 -85.4 -86.8c0 -48 38.2 -86.8 85.4 -86.8c47.1 0 85.4 38.8 85.4 86.8c0 47.9 -38.3 86.8 -85.4 86.8Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_3{
+fill: #FFF;
+}
+]]></style>
+</defs>
+<path clip-path="url(#c0_3)" d="M0 0H1466.3V825H0Z" class="g0_3"/>
+<path d="M0 0H1466.7V825H0Z" class="g0_3"/>
+<image clip-path="url(#c1_3)" preserveAspectRatio="none" x="0" y="-159" width="1901" height="693" xlink:href="img/1.jpg"/>
+<image preserveAspectRatio="none" x="161" y="78" width="14" height="13" xlink:href="img/2.png"/>
+<image preserveAspectRatio="none" x="113" y="68" width="110" height="21" xlink:href="img/3.png"/>
+<image clip-path="url(#c2_3)" preserveAspectRatio="none" x="1192" y="494" width="170" height="174" xlink:href="img/4.jpg"/>
+<image clip-path="url(#c3_3)" preserveAspectRatio="none" x="871" y="494" width="171" height="174" xlink:href="img/5.jpg"/>
+<image clip-path="url(#c4_3)" preserveAspectRatio="none" x="538" y="494" width="171" height="174" xlink:href="img/6.jpg"/>
+</svg>
